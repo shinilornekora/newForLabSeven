@@ -7,7 +7,7 @@ This is demo for my university discipline. Seventh lab.
 
 ### Задание 1
 
-###### main-ветка
+###### master-ветка
 
 Выполнил:
 
